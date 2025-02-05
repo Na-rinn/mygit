@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "496113701296",
+    "project_id": "lolplatform-eb04b",
+    "storage_bucket": "lolplatform-eb04b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496113701296:android:33d142c100a532be0fc675",
+        "android_client_info": {
+          "package_name": "com.example.lolplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496113701296-pkh410h1bv8icj2vi6u0h41devdg1dmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lolplatform",
+            "certificate_hash": "196a38a91d45c500dcdec109b10e9321c9e6af5b"
+          }
+        },
+        {
+          "client_id": "496113701296-hrj71ildt2u2mbv62uq5gbelnd6ffnnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9Xg0vtDoT_55rnJ4Nr6Gubl2R_Bn2aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496113701296-hrj71ildt2u2mbv62uq5gbelnd6ffnnn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496113701296-mktcbcv39a4bn0bthdvicdrl7cahs6r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lolplatform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
